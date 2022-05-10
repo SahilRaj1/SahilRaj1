@@ -34,6 +34,6 @@
 <a href="https://www.linkedin.com/in/sahilraj1/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a> 
 <a href="https://www.hackerrank.com/raj24sahil" target="_blank"> <img src="hackerrank.svg" alt="hr" width="40" height="40"/></a> 
 <a href="https://codeforces.com/profile/raj24sahil" target="_blank"> <img src="Codeforces.colored.svg" alt="cf" width="40" height="40"/></a> 
-<a href="https://www.codechef.com/users/sahilraj" target="_blank"> <img src="cc_icon_inv.svg" alt="cc" width="40" height="40"/></a> 
+<a href="https://www.codechef.com/users/sahilraj" target="_blank"> <img src="cc_icon_inv.png" alt="cc" width="40" height="40"/></a> 
 </p>
 
