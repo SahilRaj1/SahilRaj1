@@ -6,11 +6,11 @@
 
   
 
-* Machine Learning Enthusiast
+* Machine Learning
 
-* Competetive Programmer
+* Competetive Programming
 
-*  Beginner Front-End Web Developer
+* Front-End Web Development
 
   
 ## Tools I can work with :
