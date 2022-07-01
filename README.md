@@ -52,5 +52,5 @@
 <a href="https://www.hackerrank.com/raj24sahil" target="_blank"> <img src="hackerrank.svg" alt="hr" width="40" height="40"/></a> 
 <a href="https://codeforces.com/profile/raj24sahil" target="_blank"> <img src="Codeforces.colored.svg" alt="cf" width="40" height="40"/></a> 
 <a href="https://www.codechef.com/users/sahilraj" target="_blank"> <img src="cc.png" alt="cc" width="40" height="40"/></a> 
-<a href="https://leetcode.com/raj24sahil/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shlokjakhotia" height="40" width="40" /></a>
-</p>
+<!-- <a href="https://leetcode.com/raj24sahil/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shlokjakhotia" height="40" width="40" /></a>
+</p> -->
