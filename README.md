@@ -12,6 +12,8 @@
 * Full Stack Web Development
 
 * Competetive Programming
+
+* Currently I am learning react
   
 ## Tools I can work with :
 <p>
