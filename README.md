@@ -1,7 +1,7 @@
 
   
 
-# 👋 Hello, I am Sahil Raj  <img src="https://komarev.com/ghpvc/?username=SahilRaj1&label=Profile%20views&color=0e75b6&style=flat" alt="SahilRaj1" />
+# 👋 Hello, I am Sahil Raj <br> <img src="https://komarev.com/ghpvc/?username=SahilRaj1&label=Profile%20views&color=0e75b6&style=flat" alt="SahilRaj1" />
 
 ## My Skills :
 
