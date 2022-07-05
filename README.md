@@ -1,11 +1,11 @@
 
   
 
-# 👋 Hello, I am Sahil Raj <br> <img src="https://komarev.com/ghpvc/?username=SahilRaj1&label=Profile%20views&color=0e75b6&style=flat" alt="SahilRaj1" />
+# 👋 Hello, I am Sahil Raj
 
 ## My Skills :
 
-  
+  <img src="https://komarev.com/ghpvc/?username=SahilRaj1&label=Profile%20views&color=0e75b6&style=flat" alt="SahilRaj1" />
 
 * Machine Learning / Deep Learning
 
