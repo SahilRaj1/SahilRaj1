@@ -43,9 +43,9 @@
 <div>
 
 ##  Statistics :
-<p><img align="centre" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilRaj1&show_icons=true&locale=en&layout=compact" alt="SahilRaj1" /></p> 
-<p>&nbsp;<img align="centre" width="450" src="https://github-readme-stats.vercel.app/api?username=SahilRaj1&show_icons=true&locale=en" alt="SahilRaj1" /></p>
-<p><img align="centre" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilRaj1&" alt="SahilRaj1" /></p>
+<p><img align="centre" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilRaj1&theme=dark&show_icons=true&locale=en&layout=compact" alt="SahilRaj1" /></p> 
+<p>&nbsp;<img align="centre" width="450" src="https://github-readme-stats.vercel.app/api?username=SahilRaj1&theme=dark&show_icons=true&locale=en" alt="SahilRaj1" /></p>
+<p><img align="centre" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilRaj1&theme=dark" alt="SahilRaj1" /></p>
 
 </div>
 
