@@ -13,7 +13,7 @@
 
 * Competetive Programming
 
-* Currently I am learning react
+* Currently I am learning Nextjs
   
 ## Tools I can work with :
 <p>
