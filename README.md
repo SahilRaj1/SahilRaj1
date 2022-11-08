@@ -12,8 +12,6 @@
 * Full Stack Web Development
 
 * Competetive Programming
-
-* Currently Learning Django
   
 ## Tools I can work with :
 <p>
